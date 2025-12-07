@@ -14,6 +14,5 @@ class AuthRepository extends BaseRepository {
     convertor: (body) => Auth.fromJson(body),
   );
 
-  DataResult logout({required String username, required String password}) =>
-      post(url: '/auth/logout', logoutOnAuthFailed: false);
+  DataResult logout() => post(url: '/auth/logout', logoutOnAuthFailed: false);
 }
