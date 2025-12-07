@@ -1,0 +1,65 @@
+{
+  "am": {
+    "error_011": "የኩባንያ መረጃ ማግኘት አልተቻለም",
+    "text_339": "ያልተዘረዘረረ የኩባንያ ስም"
+  },
+  "ar": {
+    "error_011": "لا أستطيع الحصول على معلومات الشركة",
+    "text_339": "اسم الشركة غير المدرجة"
+  },
+  "es": {
+    "error_011": "No consigo información de la empresa",
+    "text_339": "Nombre de la empresa no cotizada"
+  },
+  "fa": {
+    "error_011": "نمی توانم اطلاعات شرکت را بگیرم",
+    "text_339": "نام شرکت ثبت نشده"
+  },
+  "fil": {
+    "error_011": "Hindi makakuha ng impormasyon ng kumpanya",
+    "text_339": "Pangalan ng kumpanya na hindi nakalista"
+  },
+  "fr": {
+    "error_011": "Impossible d’obtenir les infos de l’entreprise",
+    "text_339": "Nom de la société non cotée"
+  },
+  "hi": {
+    "error_011": "कंपनी की जानकारी नहीं मिल पा रही है",
+    "text_339": "असूचीबद्ध कंपनी का नाम"
+  },
+  "ko": {
+    "error_011": "회사 정보를 얻을 수 없습니다",
+    "text_339": "비상장 회사 이름"
+  },
+  "pa": {
+    "error_011": "ਕੰਪਨੀ ਦੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ",
+    "text_339": "ਗੈਰ-ਸੂਚੀਬੱਧ ਕੰਪਨੀ ਦਾ ਨਾਮ"
+  },
+  "prs": {
+    "error_011": "نمی توانم اطلاعات شرکت را بگیرم",
+    "text_339": "نام شرکت ثبت نشده"
+  },
+  "ps": {
+    "error_011": "د شرکت معلومات نه ترلاسه کېږی",
+    "text_339": "غیر ثبت شوی شرکت نوم"
+  },
+  "sw": {
+    "error_011": "Haiwezi kupata maelezo ya kampuni",
+    "text_339": "Jina la kampuni ambalo halijaorodheshwa"
+  },
+  "ti": {
+    "error_011": "ናይ ኩባንያ ሓበሬታ ክረክብ ኣይከኣልኩን",
+    "text_339": "ዘይተዘርዘረረ ስም ኩባንያ"
+  },
+  "uk": {
+    "error_011": "Не можу отримати інформацію про компанію",
+    "text_339": "Непублічна назва компанії"
+  },
+  "vi": {
+    "error_011": "Không thể nhận thông tin công ty",
+    "text_339": "Tên công ty chưa niêm yết"
+  },
+  "zh": { "error_011": "无法获得公司信息", "text_339": "未上市公司名称" },
+  "zh_Hans": { "error_011": "无法获得公司信息", "text_339": "未上市公司名称" },
+  "zh_Hant": { "error_011": "無法取得公司資訊", "text_339": "未上市公司名稱" }
+}
